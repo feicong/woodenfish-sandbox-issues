@@ -105,4 +105,7 @@
 
 [沙箱内测星球](https://wx.zsxq.com/dweb2/index/group/51122882448514)
 
+沙箱内测活动：
+
+![image](https://user-images.githubusercontent.com/1672927/184568831-0cf96ca3-30c9-4e21-a7e8-1b9aa0ea4a82.png)
 

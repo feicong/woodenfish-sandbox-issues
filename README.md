@@ -86,6 +86,8 @@
 
 - [ ] Flutter支持
 
+- [ ] Windows11 WSA支持
+
 - [ ] Xposed插件动态分析支持
 
 - [x] Golang开发的APP支持

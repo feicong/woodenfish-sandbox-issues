@@ -86,6 +86,8 @@
 
 - [ ] Flutter支持
 
+- [ ] Hiddern API检测
+
 - [ ] Windows11 WSA支持
 
 - [ ] 火焰图支持

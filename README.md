@@ -32,6 +32,8 @@
 
 - [x] APP第三方SDK与壳信息
 
+- [x] APP第三方SDK密钥与session key提取
+
 - [x] JAVA API调用分布与统计
 
 - [x] 系统调用分布与统计

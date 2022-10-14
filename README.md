@@ -88,7 +88,7 @@
 
 - [ ] Flutter支持
 
-- [ ] Hiddern API检测
+- [x] Hiddern API检测
 
 - [ ] Windows11 WSA支持
 

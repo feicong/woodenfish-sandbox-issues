@@ -86,7 +86,9 @@
 
 - [x] 自动抓HTTPS包
 
-- [ ] Flutter支持
+- [x] Flutter动态分析支持
+
+- [ ] Flutter抓包支持
 
 - [x] Hiddern API检测
 

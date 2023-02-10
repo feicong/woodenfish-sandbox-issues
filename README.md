@@ -2,7 +2,7 @@
 
 木鱼安卓APP分析沙箱
 
-![https://mp.weixin.qq.com/s/TVZ0ZX2Um8tKjghPc-abAw](https://mp.weixin.qq.com/s/TVZ0ZX2Um8tKjghPc-abAw)
+[木鱼安卓APP分析沙箱功能展示](https://mp.weixin.qq.com/s/TVZ0ZX2Um8tKjghPc-abAw)
 
 ## 沙箱功能
 

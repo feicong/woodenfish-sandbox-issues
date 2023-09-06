@@ -2,6 +2,10 @@
 
 木鱼安卓APP分析沙箱
 
+**沙箱平台不开源**
+
+这只是issue收集整理与解决的仓库
+
 [木鱼安卓APP分析沙箱功能展示](https://mp.weixin.qq.com/s/TVZ0ZX2Um8tKjghPc-abAw)
 
 ## 沙箱功能
@@ -111,10 +115,3 @@
 
 
 
-## 沙箱内测
-
-内测时有任意意见与建议，可以在这个仓库提issue。
-
-沙箱内测：
-
-![image](https://user-images.githubusercontent.com/1672927/188149693-60d8cdf2-30ae-4209-9d4b-828452fa4694.png)
